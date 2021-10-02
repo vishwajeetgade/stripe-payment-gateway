@@ -1,0 +1,20 @@
+{
+  "name": "stripe-payment-gateway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "stripe": "^8.178.0"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
